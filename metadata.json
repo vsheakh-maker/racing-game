@@ -1,0 +1,6 @@
+{
+  "name": "Glen Canyon Racing",
+  "description": "High-octane 3D racing game featuring the iconic Glen Canyon Dam circuit from GT Racing 2, with realistic physics, rival AI cars, drift mechanics, nitro boost, and car garage customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
